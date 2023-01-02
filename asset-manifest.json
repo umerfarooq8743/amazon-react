@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/amazon-react/static/css/main.c3c9c0f2.css",
+    "main.js": "/amazon-react/static/js/main.00f65ec0.js",
+    "static/media/testimonialHero.png": "/amazon-react/static/media/testimonialHero.be51563da7af51b38130.png",
+    "static/media/img10.png": "/amazon-react/static/media/img10.9dca869800ef4d7d7be2.png",
+    "static/media/before.png": "/amazon-react/static/media/before.6c2af2660743681e75bf.png",
+    "static/media/after.png": "/amazon-react/static/media/after.c70a5976d8f1653193ca.png",
+    "static/media/hero.png": "/amazon-react/static/media/hero.7e2be00982208588722d.png",
+    "static/media/img12.png": "/amazon-react/static/media/img12.7696f2854ceabceb984c.png",
+    "static/media/img3.png": "/amazon-react/static/media/img3.d225ac3ac1bcc97aca1b.png",
+    "static/media/img14.png": "/amazon-react/static/media/img14.2b55b655fba33b943c93.png",
+    "static/media/img13.png": "/amazon-react/static/media/img13.e3b0835f60b5707adc11.png",
+    "static/media/img11.png": "/amazon-react/static/media/img11.61cf95f44f96c3564496.png",
+    "static/media/img4.png": "/amazon-react/static/media/img4.7b20223641d7d8966ccd.png",
+    "static/media/img5.png": "/amazon-react/static/media/img5.a12239757c62254e7da3.png",
+    "static/media/img6.png": "/amazon-react/static/media/img6.56e238b1c3c874d28abe.png",
+    "static/media/img7.png": "/amazon-react/static/media/img7.316d5f4f0fdaa020ad04.png",
+    "static/media/img1.png": "/amazon-react/static/media/img1.43539ffb398f19f18433.png",
+    "static/media/img9.png": "/amazon-react/static/media/img9.e6a5aa1e402b61a22d3d.png",
+    "static/media/img8.png": "/amazon-react/static/media/img8.3057bb293334c0df814f.png",
+    "static/media/img2.png": "/amazon-react/static/media/img2.16b9473ec159268c564d.png",
+    "static/media/shade.png": "/amazon-react/static/media/shade.ce305661a97c2720c82b.png",
+    "index.html": "/amazon-react/index.html",
+    "main.c3c9c0f2.css.map": "/amazon-react/static/css/main.c3c9c0f2.css.map",
+    "main.00f65ec0.js.map": "/amazon-react/static/js/main.00f65ec0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c3c9c0f2.css",
+    "static/js/main.00f65ec0.js"
+  ]
+}
