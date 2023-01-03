@@ -38,7 +38,7 @@ const Footer = () => {
 
                         <span className={css.pngLine}>
                             <InboxIcon className={css.icon} />
-                            <a href="ainkhan.20@mail.com">ainkhan.20@mail.com</a>
+                            <a href="s.m.umerfarooq8743@gmail.com">ainkhan.20@mail.com</a>
                         </span>
                     </div>
                 </div>
